@@ -1,6 +1,6 @@
 # Project 2
 
-We're Fine-tuning the Hugging Face Vision Transformer(ViT) with Pytorch for Vehicle Type Image Classification.
+Fine-tune the Hugging Face Vision Transformer(ViT) with Pytorch for Vehicle Type Image Classification, training gradually unfreezing layers starting from the end vs train a model with all layers unfrozen from the get-go.
 
 The notebook explaining our process is './main.ipynb', 
 
