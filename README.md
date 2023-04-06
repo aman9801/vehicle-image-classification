@@ -4,7 +4,7 @@ We're Fine-tuning the Hugging Face Vision Transformer(ViT) with Pytorch for Vehi
 
 The notebook explaining our process is './main.ipynb', 
 
-the github pages link is 
+the github pages link is https://aman9801.github.io/vehicle-image-classification/
 
 and the trained models are available at https://drive.google.com/drive/folders/1YgFnsp3T7jTuxzBLXdbJx1X8uHsHqxT_?usp=share_link
 
